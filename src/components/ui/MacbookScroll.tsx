@@ -165,9 +165,14 @@ export const Lid = ({
       >
         <div className="absolute inset-0 rounded-lg" />
         <img
-          src="https://fvatqhsxamnvoljvteox.supabase.co/storage/v1/object/public/marketing/SCR-20240219-vg7.png"
-          alt="aceternity logo"
-          className="object-cover object-left-top absolute rounded-lg inset-0 h-full w-full"
+          src="https://fvatqhsxamnvoljvteox.supabase.co/storage/v1/object/public/marketing/SCR-20240219-vx2.png"
+          alt="Quick Drive Software"
+          className="dark:hidden object-left-top absolute rounded-lg inset-0 h-full w-full"
+        />
+        <img
+          src="https://fvatqhsxamnvoljvteox.supabase.co/storage/v1/object/public/marketing/SCR-20240219-w1k%20(1).png?t=2024-02-19T22%3A06%3A49.676Z"
+          alt="Quick Drive Software"
+          className="hidden dark:block object-left-top absolute rounded-lg inset-0 h-full w-full"
         />
       </motion.div>
     </div>
